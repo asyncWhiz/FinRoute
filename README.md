@@ -1,4 +1,8 @@
 # FinRoute
+
+
+Link: https://colab.research.google.com/drive/1X4wz0buTRM_38T8lGs6eny9KHWvoufms?usp=sharing
+
 FinRoute is a data-driven, gamified simulation platform designed to bridge the financial literacy gap in rural and semi-urban India by transforming complex economic concepts into interactive, behavior-changing experiences.
 Built on a foundation of Finite State Machine (FSM)  logic, the system models real-world financial transitions for farmers, women entrepreneurs, students, and young adults, ensuring that every user decision leads to a mathematically consistent outcome. Central to the platform is a proprietary Resilience Score ($R$) algorithm—calculated using variables like seasonal savings, insurance coverage, and debt-to-income ratios—which is visually represented by a dynamic "Health Meter" to provide immediate, intuitive feedback. By integrating vernacular voice narration via the Web Speech API and optimizing for low-bandwidth "shadow zones," FinRoute creates a "human firewall" against 
 financial shocks and digital fraud, effectively aligning technical computer science principles with the critical goal of national financial stability.
